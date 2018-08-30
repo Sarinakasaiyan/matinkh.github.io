@@ -14,7 +14,7 @@ You may find a PDF version of my resume here. ([`matin_resume.pdf`]({{ page.resu
 ## Work Experience
 * Machine Learning Research Intern, <span style="color: blue">Philips Research North America</span>, Boston MA, USA (08/2017 -- 12/2017).
 
-* Research Assistant, <span style="color: blue">University of Florida</span>, Gainesville FL, USA (08/2013 -- 08/2018).
+* Research Assistant, <span style="color: blue">University of Florida</span>, Gainesville FL, USA (08/2013 -- <i>present</i>).
 
 <hr>
 <br>
