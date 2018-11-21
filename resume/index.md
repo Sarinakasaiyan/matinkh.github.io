@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 tags: [matin, kheirkhahan, matin kheirkhahan, resume, cv, publications]
-date: 2018-08-28
+date: 2018-11-20
 resume_address: 'files/matin_resume.pdf'
 ---
 
@@ -12,9 +12,11 @@ You may find a PDF version of my resume here. ([`matin_resume.pdf`]({{ page.resu
 <br>
 
 ## Work Experience
+* Software Engineer, <font style="color:blue">G</font><font style="color:red">o</font><font style="color:orange">o</font><font style="color:blue">g</font><font style="color:green">l</font><font style="color:red">e</font>, Mountain View CA, USA (11/2018 -- _present_)
+
 * Machine Learning Research Intern, <span style="color: blue">Philips Research North America</span>, Boston MA, USA (08/2017 -- 12/2017).
 
-* Research Assistant, <span style="color: blue">University of Florida</span>, Gainesville FL, USA (08/2013 -- <i>present</i>).
+* Research Assistant, <span style="color: blue">University of Florida</span>, Gainesville FL, USA (08/2013 -- 11/2018).
 
 <hr>
 <br>
