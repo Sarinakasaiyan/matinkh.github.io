@@ -9,11 +9,13 @@ pic: 'img/philips_internship.jpg'
 <center><span style="font-size: 10pt">Presenting my work on Patient-Ventilator Asynchrony Detection<br>
 at Philips Research, Cambridge MA, November 2017.</span></center>
 
+* <b>November 2018:</b> Our paper "<i>A Smartwatch-Based Framework for Real-Time and Online Assessment and Mobility Monitoring</i>" is now publicly available (and for a limited time)! Read it here: [https://authors.elsevier.com/a/1Y8EN5SMDQYjIe](https://authors.elsevier.com/a/1Y8EN5SMDQYjIe).
+
 * <b>November 2018:</b> Joined <font style="color:blue">G</font><font style="color:red">o</font><font style="color:orange">o</font><font style="color:blue">g</font><font style="color:green">l</font><font style="color:red">e</font> as a Software Engineer.
 
 * <b>August 2018:</b> Graduated from [UF CISE](https://cise.ufl.edu/) with a Ph.D. degree in Computer Science.
 
-* <b>July 2018:</b> Our work "<i>Real-Time Online Assessment and Monitoring of Mobility</i>" was accepted for journal of [Biomedical Informatics](https://ees.elsevier.com/jbi/).
+* <b>July 2018:</b> Our work "<i>A Smartwatch-Based Framework for Real-Time and Online Assessment and Mobility Monitoring</i>" was accepted for journal of [Biomedical Informatics](https://ees.elsevier.com/jbi/).
 
 * <b>June 2018:</b> Successfully defended my Ph.D. Dissertation.
 
