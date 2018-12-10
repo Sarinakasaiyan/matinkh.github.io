@@ -9,6 +9,6 @@ date: 2016-03-21
 
 ### Address
 * Google Building 1230<br>
-1230 Charleston Rd<br>
+1600 Amphitheater Parkway,<br>
 attn: `matink`<br>
 Mountain View, CA 94043<br>
