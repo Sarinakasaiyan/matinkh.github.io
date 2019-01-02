@@ -2,13 +2,13 @@
 layout: contact_page
 title: Contact
 tags: [matin, kheirkhahan, matin kheirkhahan, contact, email]
-date: 2016-03-21
+date: 2019-01-01
 ---
 ### Email
 * matin.kh(`at`)gmail.com
 
 ### Address
-* Google Building 1230<br>
+* Google<br>
 1600 Amphitheater Parkway,<br>
 attn: `matink`<br>
 Mountain View, CA 94043<br>
