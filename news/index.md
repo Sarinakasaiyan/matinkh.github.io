@@ -9,7 +9,7 @@ pic: 'img/philips_internship.jpg'
 <center><span style="font-size: 10pt">Presenting my work on Patient-Ventilator Asynchrony Detection<br>
 at Philips Research, Cambridge MA, November 2017.</span></center>
 
-* <b>December 2018:</b> Our work "Wrist Accelerometer Shape Feature Derivation Methods for Assessing Activities of Daily Living" is published in journal of BMC Medical Informatics and Decision Making](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-018-0671-1).
+* <b>December 2018:</b> Our work "Wrist Accelerometer Shape Feature Derivation Methods for Assessing Activities of Daily Living" is published in [journal of BMC Medical Informatics and Decision Making](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-018-0671-1).
 
 * <b>November 2018:</b> Our paper "<i>A Smartwatch-Based Framework for Real-Time and Online Assessment and Mobility Monitoring</i>" is now publicly available (and for a limited time)! Read it here: [https://authors.elsevier.com/a/1Y8EN5SMDQYjIe](https://authors.elsevier.com/a/1Y8EN5SMDQYjIe).
 
